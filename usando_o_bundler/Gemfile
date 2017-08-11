@@ -1,0 +1,5 @@
+source 'https://rubygems.org'
+
+gem 'lerolero_generator'
+gem 'cpf_utils'
+gem 'nokogiri'

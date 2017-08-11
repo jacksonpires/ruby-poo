@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cpf_utils (1.2.1)
+    lerolero_generator (1.0.1)
+    mini_portile2 (2.2.0)
+    nokogiri (1.8.0)
+      mini_portile2 (~> 2.2.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cpf_utils
+  lerolero_generator
+  nokogiri
+
+BUNDLED WITH
+   1.15.3
